@@ -1,0 +1,14 @@
+{
+  "graphs": {
+    "nvidia_agent": "Agent:make_default_graph"
+  },
+  "env": "../.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "langgraph",
+    "langchain",
+    "langchain-core",
+    "langchain-nvidia-ai-endpoints",
+    "python-dotenv"
+  ]
+}
