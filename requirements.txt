@@ -8,3 +8,6 @@ langchain-groq
 
 arxiv
 wikipedia
+faiss-cpu
+sentence-transformers
+tiktoken
